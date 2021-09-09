@@ -1,0 +1,24 @@
+body {
+    background: center/100% url("/Content/Images/backphoto.jpg") fixed;
+    /*background: url("/Content/Images/backphoto.jpg") no-repeat center center fixed;*/
+    /* background-size: cover; */
+    /*font-family: "Nunito", sans-serif;*/
+}
+
+.footer-pos {
+    /*width:auto;*/
+    width: 100%;
+    height: auto;
+    position: absolute;
+    /*top: 50px;*/
+    bottom: 0;
+    left: 0;
+    /*right:0;*/
+    /*margin: auto;*/
+    margin-top: 2em;
+    /*border-top-width: 1px;*/
+    /*border-top-style: solid;*/
+    /*border-top-color: #FFF;*/
+    border-top: 1px solid rgba(0,0,0,.1);
+    /*border-top: 2mm ridge rgb(58, 99, 76, .6);*/
+}
